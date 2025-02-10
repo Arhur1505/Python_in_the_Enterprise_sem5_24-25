@@ -1,0 +1,342 @@
+{
+    "John Doe": {
+        "scores": {
+            "Matematyka": [
+                4,
+                5,
+                3
+            ],
+            "Biologia": [
+                5,
+                4
+            ]
+        },
+        "attendance": 10
+    },
+    "Alice Smith": {
+        "scores": {
+            "Fizyka": [
+                3,
+                4
+            ],
+            "Chemia": [
+                5,
+                5,
+                6
+            ]
+        },
+        "attendance": 8
+    },
+    "Bob Brown": {
+        "scores": {
+            "Historia": [
+                4,
+                4,
+                4
+            ],
+            "Geografia": [
+                3,
+                5
+            ]
+        },
+        "attendance": 12
+    },
+    "Cathy Miller": {
+        "scores": {
+            "Matematyka": [
+                2,
+                3,
+                4
+            ],
+            "Fizyka": [
+                5,
+                5
+            ]
+        },
+        "attendance": 7
+    },
+    "David Jones": {
+        "scores": {
+            "Biologia": [
+                5,
+                4,
+                4
+            ],
+            "Chemia": [
+                2,
+                3
+            ]
+        },
+        "attendance": 9
+    },
+    "Eve Wilson": {
+        "scores": {
+            "Matematyka": [
+                6,
+                5
+            ],
+            "Geografia": [
+                3,
+                4,
+                4
+            ]
+        },
+        "attendance": 11
+    },
+    "Frank Moore": {
+        "scores": {
+            "Historia": [
+                4,
+                3,
+                3
+            ],
+            "Biologia": [
+                5,
+                6
+            ]
+        },
+        "attendance": 10
+    },
+    "Grace Taylor": {
+        "scores": {
+            "Chemia": [
+                2,
+                3,
+                4
+            ],
+            "Fizyka": [
+                5,
+                5
+            ]
+        },
+        "attendance": 6
+    },
+    "Henry Anderson": {
+        "scores": {
+            "Geografia": [
+                4,
+                4,
+                4
+            ],
+            "Historia": [
+                2,
+                3
+            ]
+        },
+        "attendance": 8
+    },
+    "Ivy Thomas": {
+        "scores": {
+            "Matematyka": [
+                3,
+                2,
+                4
+            ],
+            "Biologia": [
+                5,
+                5
+            ]
+        },
+        "attendance": 9
+    },
+    "Jack Jackson": {
+        "scores": {
+            "Fizyka": [
+                3,
+                3,
+                4
+            ],
+            "Chemia": [
+                5,
+                4
+            ]
+        },
+        "attendance": 7
+    },
+    "Kelly White": {
+        "scores": {
+            "Historia": [
+                4,
+                5,
+                5
+            ],
+            "Matematyka": [
+                2,
+                2,
+                3
+            ]
+        },
+        "attendance": 10
+    },
+    "Max Verstappen": {
+        "scores": {
+            "Matematyka": [
+                4,
+                5,
+                3,
+                5
+            ],
+            "Biologia": [
+                5,
+                4
+            ]
+        },
+        "attendance": 10
+    },
+    "Lando Norris": {
+        "scores": {
+            "Fizyka": [
+                3,
+                4
+            ],
+            "Chemia": [
+                5,
+                5,
+                6
+            ]
+        },
+        "attendance": 8
+    },
+    "Lewis Hamilton": {
+        "scores": {
+            "Historia": [
+                4,
+                4,
+                4,
+                5
+            ],
+            "Geografia": [
+                3,
+                5
+            ]
+        },
+        "attendance": 12
+    },
+    "Charles Leclerc": {
+        "scores": {
+            "Matematyka": [
+                2,
+                3,
+                4
+            ],
+            "Fizyka": [
+                5,
+                5
+            ]
+        },
+        "attendance": 7
+    },
+    "Oscar Piastri": {
+        "scores": {
+            "Biologia": [
+                5,
+                4,
+                4
+            ],
+            "Chemia": [
+                2,
+                3
+            ]
+        },
+        "attendance": 9
+    },
+    "Carlos Sainz": {
+        "scores": {
+            "Matematyka": [
+                6,
+                5
+            ],
+            "Geografia": [
+                3,
+                4,
+                4
+            ]
+        },
+        "attendance": 11
+    },
+    "George Russel": {
+        "scores": {
+            "Historia": [
+                4,
+                3,
+                3
+            ],
+            "Biologia": [
+                5,
+                6
+            ]
+        },
+        "attendance": 10
+    },
+    "Sergio Pérez": {
+        "scores": {
+            "Chemia": [
+                2,
+                3,
+                4
+            ],
+            "Fizyka": [
+                5,
+                5
+            ]
+        },
+        "attendance": 6
+    },
+    "Fernando Alonso": {
+        "scores": {
+            "Geografia": [
+                4,
+                4,
+                4
+            ],
+            "Historia": [
+                2,
+                3
+            ]
+        },
+        "attendance": 8
+    },
+    "Daniel Ricciardo": {
+        "scores": {
+            "Matematyka": [
+                3,
+                2,
+                4
+            ],
+            "Biologia": [
+                5,
+                5
+            ]
+        },
+        "attendance": 9
+    },
+    "Sebastian Vettel": {
+        "scores": {
+            "Fizyka": [
+                3,
+                3,
+                4
+            ],
+            "Chemia": [
+                5,
+                4
+            ]
+        },
+        "attendance": 8
+    },
+    "Ayrton Senna": {
+        "scores": {
+            "Historia": [
+                4,
+                5,
+                5
+            ],
+            "Matematyka": [
+                2,
+                2,
+                3
+            ]
+        },
+        "attendance": 11
+    }
+}

@@ -1,0 +1,20 @@
+mkdir repositore
+cd repositore/
+git init
+git status
+cd ..
+git status
+cd repositore/
+ls -a
+touch file.txt
+git status
+git add file.txt 
+git status
+git commit -m "message"
+git status
+git log
+git remote add origin https://github.com/Arhur1505/python_test.git
+git push origin master
+git pull origin main
+git merge main
+git checkout main
